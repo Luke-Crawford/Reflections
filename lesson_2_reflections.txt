@@ -1,0 +1,4 @@
+Repository is where the files for that project are stored.  It creates a .git file, and allows for the user to start revising projects and committing them.
+
+Staging Area:
+The staging area is an inbetween are of working and repository.
