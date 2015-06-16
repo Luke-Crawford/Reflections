@@ -2,3 +2,15 @@ Repository is where the files for that project are stored.  It creates a .git fi
 
 Staging Area:
 The staging area is an inbetween are of working and repository.
+
+Commit Szie:
+You could add every change to the staging area, but only commit when there is a logical change in the code.  Or when the change works if you're having problems getting it to work.
+
+When to Use Branches:
+Branches would help when you are going to try out a new feature on your software.  It would help because it would allow you to keep your origianl working code, while trying out the new feature without changing it.
+
+Diagram Visualization:
+
+
+
+
